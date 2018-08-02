@@ -288,11 +288,11 @@ foo(5);
 foo([]);
 ```
 
-### Callable Objects <a class="toc" id="toc-callable-objects" href="#toc-callable-objects"></a>
+### ]ble Objects <a class="toc" id="toc-callable-objects" href="#toc-callable-objects"></a>
 
 Callable objects can be typed, for example:
 
-```
+```js
 type CallableObj = {
   (number, number): number,
   bar: string
